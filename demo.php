@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . './vendor/autoload.php';
+require_once './vendor/autoload.php';
 
 $token = 'hG0tAxNAC1PgRQ01ctOKgey62qndAITr4DJQsWK5TVkY6r3TOixd7JIgJwzHUvFEED66ebv8s60d/a9lxuAFRAbUdzsIUiSArMD4Hsh1Wa9rI0Ai3ZtrpwivcdUtiz3vdLahj6zTG/SrplObFojZuwdB04t89/1O/w1cDnyilFU=';
 $secret = '65369c071154b7ed39dec0591b220927';
