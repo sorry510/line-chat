@@ -1,0 +1,17 @@
+{
+    "name": "simple/line-chat",
+    "autoload": {
+        "psr-4": {
+            "Simple\\LineChat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sorry510",
+            "email": "491559675@qq.com"
+        }
+    ],
+    "require": {
+        "linecorp/line-bot-sdk": "^7.3"
+    }
+}
